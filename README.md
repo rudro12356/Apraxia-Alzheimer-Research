@@ -47,17 +47,13 @@ pip install -r requirements.txt
 	3.	Run main script: Execute main.py to extract skeleton data.  
 	4.	Analyze output: The extracted skeleton data will be stored as CSVs.  
 
- 🤝 Contributing
+🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-⸻
 
 📜 License
 
 This project is licensed under the MIT License.
-
-⸻
 
 🙌 Acknowledgments
 
