@@ -1,0 +1,30 @@
+﻿ID,Type,Description
+A1_1,Static,Left hand on left ear
+A1_2,Static,Left hand on right ear
+A1_3,Static,Right hand on right ear
+A1_4,Static,Right hand on left ear
+A1_5,Static,Index and baby finger on table
+A2_1,Static,Stick together index and baby fingers
+A2_2,Dynamic,"Hands on table, twist toward body"
+A2_3,Static,Bird
+A2_4,Static,Diamond
+A2_5,Static,Ring together
+S1_1,Static,Do a military salute
+S1_2,Static,Ask for silence
+S1_3,Static,Show something smells bad
+S1_4,Dynamic,Tell someone is crazy
+S1_5,Dynamic,Blow a kiss
+S2_1,Dynamic,Twiddle your thumbs
+S2_2,Static,Indicate there is unbearable noise
+S2_3,Static,Indicate you want to sleep
+S2_4,Static,Pray
+P1_1,Dynamic,Comb hair
+P1_2,Dynamic,Drink a glass of water
+P1_3,Dynamic,Answer the phone
+P1_4,Dynamic,Pick up a needle
+P1_5,Dynamic,Smoke a cigarette
+P2_1,Dynamic,Unscrew a stopper
+P2_2,Dynamic,Play piano
+P2_3,Dynamic,Hammer a nail
+P2_4,Dynamic,Tear up a paper
+P2_5,Dynamic,Strike a match
