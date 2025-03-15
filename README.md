@@ -41,11 +41,11 @@ cd Apraxia-Alzheimer-Research
 pip install -r requirements.txt
 ```
 
-📌 Example Workflow
-	1.	Prepare dataset: Place patient videos in dataset/Patient_XX/RGB/
-	2.	Ensure annotations exist: Each patient should have an annotation CSV in annotations/
-	3.	Run main script: Execute main.py to extract skeleton data.
-	4.	Analyze output: The extracted skeleton data will be stored as CSVs.
+📌 Example Workflow  
+	1.	Prepare dataset: Place patient videos in dataset/Patient_XX/RGB/  
+	2.	Ensure annotations exist: Each patient should have an annotation CSV in annotations/  
+	3.	Run main script: Execute main.py to extract skeleton data.  
+	4.	Analyze output: The extracted skeleton data will be stored as CSVs.  
 
  🤝 Contributing
 
