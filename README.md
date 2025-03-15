@@ -40,3 +40,25 @@ git clone https://github.com/rudro12356/Apraxia-Alzheimer-Research.git
 cd Apraxia-Alzheimer-Research
 pip install -r requirements.txt
 ```
+
+📌 Example Workflow
+	1.	Prepare dataset: Place patient videos in dataset/Patient_XX/RGB/
+	2.	Ensure annotations exist: Each patient should have an annotation CSV in annotations/
+	3.	Run main script: Execute main.py to extract skeleton data.
+	4.	Analyze output: The extracted skeleton data will be stored as CSVs.
+
+ 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+⸻
+
+📜 License
+
+This project is licensed under the MIT License.
+
+⸻
+
+🙌 Acknowledgments
+
+Special thanks to Professor Sumaiya’s Lab for guidance and the open-source community for amazing tools like MediaPipe, OpenCV, and Pandas.
